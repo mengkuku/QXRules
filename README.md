@@ -6,7 +6,7 @@
 # 说明
 
 
-- 累计访客量: ![](https://profile-counter.glitch.me/BOBOLAOSHIV587_Rules/count.svg)
+- 累计访客量: ![](https://profile-counter.glitch.me/mengkuku_QXRules/count.svg)
 
 1、自用Surge、(Qx)QuantumultX、Loon--分流规则、JS会员解锁脚本（搬运自各位大佬，防止删库）、Task。
 
