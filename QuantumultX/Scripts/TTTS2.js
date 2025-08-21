@@ -1,7 +1,7 @@
 
 [rewrite_local]
 
-^https:\/\/api\.tiantiantiaosheng\.com\/api2\/s_plus_member\/entrance_info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/TTTS.js
+^https:\/\/api\.tiantiantiaosheng\.com\/api2\/s_plus_member\/entrance_info url script-response-body https://ghfast.top/raw.githubusercontent.com/mengkuku/QXRules/refs/heads/main/QuantumultX/Scripts/TTTS2.js
 
 [mitm] 
 
